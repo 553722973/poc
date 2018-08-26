@@ -1,0 +1,22 @@
+1、获取本店基本情况
+
+   http://petapi.yinway.cn/service/api/ReportGroup/GetEnterpriseInfo
+
+   内容：本店基本情况，当月收入、上月收入、当月目标、当月流水
+
+2、分店基本情况
+
+   http://petapi.yinway.cn/service/api/reportBranch/getBranchInfo?id=1EA099D4-B990-4B9F-916E-43153BE69FE3
+
+   内容：分店基本情况，当月收入、上月收入、当月目标、当月流水
+
+3、本店营收概况-按月
+
+   http://petapi.yinway.cn/service/api/reportGroup/getMontTotalIncomeExpenditure
+
+   
+4、本店会员
+
+   http://petapi.yinway.cn/service/api/reportGroup/getGuestPager?page=1&size=10
+
+5、

@@ -1,0 +1,11 @@
+D:\POC\Knowledge\Base\bin\Debug\Base.exe.config
+D:\POC\Knowledge\Base\bin\Debug\Base.exe
+D:\POC\Knowledge\Base\bin\Debug\Base.pdb
+D:\POC\Knowledge\Base\obj\Debug\Base.Form1.resources
+D:\POC\Knowledge\Base\obj\Debug\Base.Properties.Resources.resources
+D:\POC\Knowledge\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+D:\POC\Knowledge\Base\obj\Debug\Base.exe
+D:\POC\Knowledge\Base\obj\Debug\Base.pdb
+D:\POC\Knowledge\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+D:\POC\Knowledge\Base\obj\Debug\Base.Form2.resources
+D:\POC\Knowledge\Base\obj\Debug\Base.AnysnTest.resources

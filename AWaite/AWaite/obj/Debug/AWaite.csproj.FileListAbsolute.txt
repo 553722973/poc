@@ -1,0 +1,10 @@
+D:\POC\AWaite\AWaite\bin\Debug\AWaite.exe.config
+D:\POC\AWaite\AWaite\bin\Debug\AWaite.exe
+D:\POC\AWaite\AWaite\bin\Debug\AWaite.pdb
+D:\POC\AWaite\AWaite\obj\Debug\AWaite.csprojAssemblyReference.cache
+D:\POC\AWaite\AWaite\obj\Debug\AWaite.Form1.resources
+D:\POC\AWaite\AWaite\obj\Debug\AWaite.Properties.Resources.resources
+D:\POC\AWaite\AWaite\obj\Debug\AWaite.csproj.GenerateResource.cache
+D:\POC\AWaite\AWaite\obj\Debug\AWaite.csproj.CoreCompileInputs.cache
+D:\POC\AWaite\AWaite\obj\Debug\AWaite.exe
+D:\POC\AWaite\AWaite\obj\Debug\AWaite.pdb
